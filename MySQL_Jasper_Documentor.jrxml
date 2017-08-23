@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Jaspersoft Studio version 6.4.0.final using JasperReports Library version 6.4.1  -->
 <jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="MySQL_Doc_Container" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="27002dc0-3f53-428d-a2fe-131c8c9a8e36">
-	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="BACKOFFICE"/>
 	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
 	<property name="com.jaspersoft.studio.unit." value="pixel"/>
 	<property name="com.jaspersoft.studio.unit.pageHeight" value="pixel"/>
@@ -41,7 +40,6 @@
 	</style>
 	<subDataset name="Column_Structure_Query" uuid="1428d963-114f-4197-8746-3d422712760f">
 		<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
-		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="BACKOFFICE"/>
 		<parameter name="P_DB_NAME" class="java.lang.String"/>
 		<parameter name="P_TABLE_NAME" class="java.lang.String"/>
 		<queryString language="SQL">
