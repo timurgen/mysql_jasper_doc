@@ -1,5 +1,5 @@
 # mysql_jasper_doc
-Simple MySQL/MariaDB documentor 
+Simple MySQL/MariaDB database documentation tool 
 
 Written in JasperStudio 6.4 with JasperReports Library 6.4.1 <br/>
 Simply pass database schema name as input parameter P_Schema_Name <br/>
